@@ -77,7 +77,7 @@ and `scanner/bridge_client.py` are Windows/DPFP-specific.
 ### 2. Install
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/openfinger.git
+git clone https://github.com/Tresorbana/Openfinger.git
 cd openfinger
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
